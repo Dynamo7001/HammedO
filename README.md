@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
 
    **Activities:** Setting up and deploying infrastructure, visualization pipeline, CI/CD style container orchestration.
   
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Exploiting Web Applications](https://drive.google.com/file/d/1A-oTUqgw0ChSQzwU6F89Fyf7N1G74HRI/view?usp=drive_link)**
 
 ## 🚨 Threat Hunting and Security Operations
 
