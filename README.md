@@ -4,12 +4,36 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[ Security for Cloud and IoT (TML Deployment in Docker & Kubernetes](https://drive.google.com/file/d/1xXVu6beZAPne1ZACltwPfThkEllHnGin/view?usp=sharing)**
+**Project 1 – Security for Cloud and IoT (TML Deployment in Docker & Kubernetes)**
+
+    **Focus:** Building and deploying machine learning-based dashboards and containers for stream processing.
+
+    **Tools:** Docker, Kubernetes, TML, Kafka, TMUX.
+
+   **Activities:** Setting up and deploying infrastructure, visualization pipeline, CI/CD style container orchestration.
+  
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Cyberthreat Detection and Real-Time Network Monitoring Solution](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+  **Project 2 – (Cyberthreat Detection and Real-Time Network Monitoring Solution)**
+
+    **Focus:** Real-time network monitoring, anomaly detection, alerting using Kafka, TML, ML, HiveMQ, and Cisco Packet Tracer.
+
+    **Tools:** Kafka, HiveMQ, Docker, TML DAGs, Python scripting.
+
+    **Activities:** Detecting APTs, packet analysis, identifying hosts at risk, real-time dashboarding.
+  
+- **[Email Attachment Malware Detection Framework](https://docs.google.com/presentation/d/13MbkJHBBwCoCbxpJuk7vvRbOfx_ZrHtg/edit?usp=sharing&ouid=117209426990201025432&rtpof=true&sd=true)** - **[Documentation](https://docs.google.com/document/d/1RnwZPCTLKJm9n1Y4wah_Ezge1I6iYiUX/edit?usp=drive_link&ouid=117209426990201025432&rtpof=true&sd=true)**
+  **Capstone Project - Email Attachment Malware Detection Framework**
+
+  **Focus:** Detecting malware in emails using VirusTotal, YARA rules, Splunk for monitoring and alerting.
+
+   **Tools:** iRedMail, Postfix, VirusTotal API, Splunk, YARA Rules, MariaDB.
+
+    **Activities:** Email scanning, threat analysis, PDF report generation, quarantine, alerting.
 
 <hr/>
 
