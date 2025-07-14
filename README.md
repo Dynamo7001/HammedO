@@ -14,6 +14,17 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
    **Activities:** Setting up and deploying infrastructure, visualization pipeline, CI/CD style container orchestration.
   
 - **[Exploiting Web Applications](https://drive.google.com/file/d/1A-oTUqgw0ChSQzwU6F89Fyf7N1G74HRI/view?usp=drive_link)**
+Burp Suite for intercepting/modifying requests, exploiting command injection, and privilege escalation.
+**Focus:** Web app vulnerability assessment and exploitation.
+- **[Kali Linux VM](https://drive.google.com/file/d/1WW1-5pcYuFE9HlU9hZoMk3XctgX_XSBD/view?usp=drive_link)**
+Initial setup and configuration of Kali Linux, including updates and snapshots.
+**Focus:** Foundational setup for vulnerability assessment.
+- **[OSRFrameworks](https://drive.google.com/file/d/1fnLbSSgLbf3-BCAc7XL8JwkpMkl6T03U/view?usp=drive_link)**
+OSINT tools for username/domain enumeration (e.g., usufy, domainfy).
+**Focus:** Reconnaissance to identify exposed information (potential attack vectors).
+- **[Windows 10 VM](https://drive.google.com/file/d/1qF__tcOkDEtH0RUPlVfd7fIOj4L78LEk/view?usp=drive_link)**
+Installation, configuration, and troubleshooting of Windows 10 VM.
+**Focus:** System hardening and snapshot management.
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -34,7 +45,15 @@ I'm passionate about cybersecurity and thrive on solving complex challenges thro
    **Tools:** iRedMail, Postfix, VirusTotal API, Splunk, YARA Rules, MariaDB.
 
     **Activities:** Email scanning, threat analysis, PDF report generation, quarantine, alerting.
-
+- **[Exploitation and Reverse Shell](https://drive.google.com/file/d/1Cytax2ZmX8lTCCQ7CTfnsBUKtKClPHfj/view?usp=drive_link)**
+Using Metasploit to exploit Drupal (CVE-2018-7600), gaining reverse shell access, and post-exploitation (flag retrieval).
+**Focus:** Adversarial simulation and incident response (post-breach).  
+- **[MSFVenom: Shellcodes and Trojans](https://drive.google.com/file/d/14IyZYCGC7ibpPFGY8XqSBDKsYEdolCHd/view?usp=drive_link)**
+Creating encoded payloads, testing AV evasion, and delivering Trojans (e.g., winrar.exe).
+**Focus:** Offensive security (payload creation) and defense evasion.
+- **[Netcat: Bind and Reverse Shell](https://drive.google.com/file/d/1O2FMDMTAt0jRfsb0vTphAMRyQWvrYw9Z/view?usp=drive_link)**
+Establishing reverse/bind shells between Windows and Linux systems using Netcat.
+**Focus:** Post-exploitation C2 (Command and Control) techniques.
 <hr/>
 
 ## 🤳 Connect With Me
