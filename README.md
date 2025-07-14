@@ -1,7 +1,6 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/oluwole-hammed-194756a0/)">Hammed Oluwole</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
+I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. My work spans vulnerability management, threat detection, and improving security operations. Each project reflects my commitment to staying ahead in the constantly evolving cybersecurity landscape. Feel free to explore my repositories to see how I apply technical skills to enhance security and mitigate risks.
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -21,10 +20,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
+[twitter]: https://x.com/HammedOluwole
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[instagram]: https://www.instagram.com/hammedo126/
+[linkedin]: https://www.linkedin.com/in/oluwole-hammed-194756a0/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
