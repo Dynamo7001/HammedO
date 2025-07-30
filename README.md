@@ -2,7 +2,7 @@
 
 I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. My work spans vulnerability management, threat detection, and improving security operations. Each project reflects my commitment to staying ahead in the constantly evolving cybersecurity landscape. Feel free to explore my repositories to see how I apply technical skills to enhance security and mitigate risks.
 
-## ⚠️ Vulnerability Management Projects https://github.com/Dynamo7001/OShardening
+## ⚠️ Vulnerability Management Projects
 - **[ Analysis of Network Hardening](https://github.com/Dynamo7001/Networkhardening/tree/main)**
  - **[ Os Hardening Techniques](https://github.com/Dynamo7001/OShardening)**
 - **[ Security for Cloud and IoT (TML Deployment in Docker & Kubernetes](https://drive.google.com/file/d/1xXVu6beZAPne1ZACltwPfThkEllHnGin/view?usp=sharing)**
