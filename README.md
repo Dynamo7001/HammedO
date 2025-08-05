@@ -2,7 +2,7 @@
 
 I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. My work spans vulnerability management, threat detection, and improving security operations. Each project reflects my commitment to staying ahead in the constantly evolving cybersecurity landscape. Feel free to explore my repositories to see how I apply technical skills to enhance security and mitigate risks.
 
-## ⚠️ Vulnerability Management Projects 
+## Labs and Projects
 - **[EDR Basics: Detecting Suspicious Network Traffic](https://github.com/Dynamo7001/SuricataandWazuh)**
 - **[Detecting Brute force attack with Wazuh](https://github.com/Dynamo7001/SSHBruteForceAttack)**
 - **[Wazuh SIEM Deployement](https://github.com/Dynamo7001/Wazuh-SIEM-Deployment)**
@@ -34,8 +34,6 @@ OSINT tools for username/domain enumeration (e.g., usufy, domainfy).
 - **[Windows 10 VM](https://drive.google.com/file/d/1qF__tcOkDEtH0RUPlVfd7fIOj4L78LEk/view?usp=drive_link)**
 Installation, configuration, and troubleshooting of Windows 10 VM.
 **Focus:** System hardening and snapshot management.
-
-## 🚨 Threat Hunting and Security Operations
 
 - **[Cyberthreat Detection and Real-Time Network Monitoring Solution](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
