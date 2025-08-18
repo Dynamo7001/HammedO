@@ -36,7 +36,7 @@ OSINT tools for username/domain enumeration (e.g., usufy, domainfy).
 Installation, configuration, and troubleshooting of Windows 10 VM.
 **Focus:** System hardening and snapshot management.
 
-- **[Cyberthreat Detection and Real-Time Network Monitoring Solution](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Cyberthreat Detection and Real-Time Network Monitoring Solution](https://drive.google.com/file/d/1RPFvjqeIL9KrhEmC0UpQejavYZbrGITR/view?usp=sharing)**
 
   **Project 2 – (Cyberthreat Detection and Real-Time Network Monitoring Solution)**
 
