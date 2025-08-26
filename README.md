@@ -3,6 +3,8 @@
 I'm passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. My work spans vulnerability management, threat detection, and improving security operations. Each project reflects my commitment to staying ahead in the constantly evolving cybersecurity landscape. Feel free to explore my repositories to see how I apply technical skills to enhance security and mitigate risks.
 
 ## Labs and Projects 
+- **[Splunk Basics – DNS Log Analysis](https://github.com/Dynamo7001/DNS-SPLUNK)**
+- **[SplunK : Insatallation and Setup](https://github.com/Dynamo7001/Splunk)**
 - **[Apply filters to SQL queries](https://docs.google.com/document/d/1Jk-JigaqtSk5aPMYbSAsxaXXX1SS_L9egn9wbU1t-pA/edit?usp=drive_link)**
 - **[EDR Basics: Detecting Suspicious Network Traffic](https://github.com/Dynamo7001/SuricataandWazuh)**
 - **[Detecting Brute force attack with Wazuh](https://github.com/Dynamo7001/SSHBruteForceAttack)**
